@@ -145,7 +145,7 @@ The model correctly identified the image as a Stop sign, demonstrating strong ge
 
 ## Key Results (Final Updated Version)
 -  Achieved very high accuracy (99%+) using YOLOv8 classification
--  Fast training on GPU (Tesla T4 via Google Colab)
+-  Fast training on GPU (T4 GPU via Google Colab)
 -  Effective transfer learning from pretrained weights (yolov8n-cls.pt)
 -  Strong convergence within only 10 epochs
 -  Reliable real-world predictions with high confidence
