@@ -22,7 +22,12 @@ Total number of classes: 43
 Image format: RGB images
 Resolution: Varying sizes (resized during preprocessing)
 
-##Purpose:
+### Dataset Overview (Sample Images per Class):
+The image below shows a sample from each of the 43 traffic sign classes, along with their corresponding label (class ID).  
+<img width="1480" height="1489" alt="image" src="https://github.com/user-attachments/assets/02824908-b998-45e8-b1ec-be29db60bcec" />
+
+
+##  Purpose:
 
 The dataset is used for multi-class image classification to train a YOLOv8 model capable of recognizing traffic signs in real-world scenarios.
 
