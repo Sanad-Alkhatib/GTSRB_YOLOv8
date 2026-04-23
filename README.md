@@ -29,16 +29,16 @@ The dataset is used for multi-class image classification to train a YOLOv8 model
 ---
 
 ##  Dataset Structure
-The dataset is organized in the following format:  
-dataset/
-├── train/
-│ ├── class_1/
-│ ├── class_2/
-│ └── ...
-├── val/
-│ ├── class_1/
-│ ├── class_2/
+The dataset is organized in the following format:   
+dataset/  
+├── train/  
+│ ├── class_1/  
+│ ├── class_2/  
 │ └── ...  
+├── val/  
+│ ├── class_1/   
+│ ├── class_2/  
+│ └── ...    
 
 Each folder represents a traffic sign category.
 
