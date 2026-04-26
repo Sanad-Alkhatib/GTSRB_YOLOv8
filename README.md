@@ -93,7 +93,7 @@ YOLO also applies **automatic augmentation during training** such as:
 ### 4. Model Training
 A pre-trained YOLOv8 Nano classification model was used:
 
-'''python
+'''python  
 model = YOLO('yolov8n-cls.pt')
  
 Training configuration:  
